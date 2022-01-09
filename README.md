@@ -4,3 +4,15 @@ If you have better code (I like readable code rather than short liner), send a p
 
 Challenges can be found here https://www.hackerrank.com/domains/python
 
+Solutions listed in Hackerrank_Python_Domain_Solutions
+<ul>
+  <li>Introduction</li>
+    <ul>
+      <li><a href="url">Say Hello, World! With Python</a></li>
+      <li><a href="url">Python If-Else</a></li>
+    </ul>
+  </li>
+  <li>Milk</li>
+</ul>
+
+
