@@ -1,4 +1,4 @@
-<!
+<!--
 Task
 Given an integer, , perform the following conditional actions:
 
@@ -15,7 +15,7 @@ Constraints
 Output Format
 
 Print Weird if the number is weird. Otherwise, print Not Weird.
-!>
+-->
 
 
 
