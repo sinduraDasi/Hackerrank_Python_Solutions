@@ -10,7 +10,7 @@ Solutions listed in Hackerrank_Python_Domain_Solutions
     <ul>
       <li><a href="Introduction/PythonIfElse.py">Say Hello, World! With Python</a></li>
       <li><a href="url">Python If-Else</a></li>
-      <li><a href="url">Arithmetic Operators</a></li>
+      <li><a href="Introduction/Intro/Arithmetic Operators.py">Arithmetic Operators</a></li>
       <li><a href="url">Python Division</a></li>
       <li><a href="url">Loops</a></li>
        <li><a href="url">Write a function</a></li>
