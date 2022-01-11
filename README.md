@@ -10,9 +10,23 @@ Solutions listed in Hackerrank_Python_Domain_Solutions
     <ul>
       <li><a href="Introduction/PythonIfElse.py">Say Hello, World! With Python</a></li>
       <li><a href="url">Python If-Else</a></li>
+      <li><a href="url">Arithmetic Operators</a></li>
+      <li><a href="url">Python Division</a></li>
+      <li><a href="url">Loops</a></li>
+       <li><a href="url">Write a function</a></li>
+       <li><a href="url">Print Function</a></li>
     </ul>
   </li>
-  <li>Milk</li>
+  <li>Basic Data Types</li>
+    <ul>
+      <li><a href="Introduction/PythonIfElse.py">Lists</a></li>
+      <li><a href="url">Tuples</a></li>
+      <li><a href="url">List Comprehensions</a></li>
+      <li><a href="url">Find the Runner-Up Score!</a></li>
+      <li><a href="url">Nested Lists</a></li>
+       <li><a href="url">Write a function</a></li>
+       <li><a href="url">Print Function</a></li>
+    </ul>
 </ul>
 
 
